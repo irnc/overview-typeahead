@@ -15,7 +15,8 @@
     * `name`
     * `highlight`
     * `limit`
-    * `display`, `displayKey`
+    * `display`
+      * `displayKey` is undocumented, but used in code (0.11.1)
     * `async`
   * `update()`
     * `asyncRequested` event type
