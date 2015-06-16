@@ -1,6 +1,10 @@
 * https://github.com/twitter/typeahead.js
 
-## `tokenizers`
+## Bloodhound
+
+* https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md
+
+### `tokenizers`
 
 * `whitespace`
 * `obj.whitespace()`
