@@ -6,7 +6,7 @@
 
 ## Typeahead
 
-* `Dateset`
+* [`Dateset`](https://github.com/twitter/typeahead.js/blob/master/src/typeahead/dataset.js)
   * `options`
     * `templates`
     * `source` required
