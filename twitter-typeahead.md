@@ -33,3 +33,7 @@
 * `whitespace`
 * `obj.whitespace()`
 * see https://github.com/twitter/typeahead.js/blob/master/src/bloodhound/tokenizers.js
+
+## Use with Bootstrap 3
+
+* https://github.com/bassjobsen/typeahead.js-bootstrap-css
